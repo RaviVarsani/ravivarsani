@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋      I'm Ravi Varsani
 
-<!--
-**RaviVarsani/ravivarsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a passionate mobile application developer with expertise in Flutter, Android and iOS. I focus on building dynamic and efficient applications.
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 💼 My Skill Set
+
+- **Technology:** Flutter | dart | Java | kotlin
+- **Platform:**	Android | iOS
+- **Version Control:** Git | GitHub | Bitbucket | Gitlab
+
+---
+<img src="https://github-profile-trophy.vercel.app/?username=RaviVarsani&theme=tokyonight&no-frame=true&row=1&column=6" style="width: 100%;" alt="Github Trophy" />
+  
+- 💬 Ask me about whatever you like
+- 📫 How to reach me: Skype: [@ravi](https://join.skype.com/invite/ohxrFqsowhCw) or GitHub: [@ravi](https://github.com/RaviVarsani)
+
