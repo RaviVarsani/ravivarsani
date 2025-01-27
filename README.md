@@ -6,7 +6,7 @@
 
 ##### 💼 My Skill Set
 
-- **Technology:** Flutter | dart | Java | kotlin
+- **Technology:** Flutter | FlutterFlow | dart | Java | kotlin
 - **Platform:**	Android | iOS
 - **Version Control:** Git | GitHub | Bitbucket | Gitlab
 
